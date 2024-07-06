@@ -7,6 +7,7 @@ Automation Enthusiast: Streamlining workflows to deliver high-quality results fa
 Continuous Learning: Staying current with the latest DevOps tools and methodologies.
 Optimization: Always on the lookout for new ways to improve software delivery and workflows.
 I'm thrilled to be a part of the ever-evolving DevOps landscape and am eager to contribute my skills and knowledge to drive success.
+## Skills
 - **Languages**: Python
 - **Frameworks**: Django, Flask
 - **DevOps Tools**: AWS, Docker, Kubernetes
